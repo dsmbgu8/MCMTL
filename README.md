@@ -6,9 +6,6 @@ This toolbox provides MATLAB code to decompose a multi-class, multi-task learnin
 
 Example learning and prediction functions are provided for the MALSAR (Multi-tAsk Learning via StructurAl Regularization) toolbox in the src/MALSAR directory. The MALSAR toolbox is available at: http://www.public.asu.edu/~jye02/Software/MALSAR/
 
-## Disclaimer 
-
-Although this code has been reasonably well-tested, it is research code, and may contain bugs. Please feel free to contact the author (bbue@alumni.rice.edu) if you have any difficulties using the code. 
 
 ## System Requirements 
 
@@ -78,6 +75,11 @@ When using this code, please use the following citations below.
   address      = {\url{http://www.ece.rice.edu/~bdb1/#mcmtl}},
 }
 ```
+
+
+## Disclaimer 
+
+Although this code has been reasonably well-tested, it is research code, and may contain bugs. Please feel free to contact the author (bbue@alumni.rice.edu) if you have any difficulties. 
 
 ## Changelog 
 
