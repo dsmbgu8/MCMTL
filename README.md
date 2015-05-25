@@ -1,4 +1,4 @@
-MCMTL: MultiClass MultiTask Learning (MCMTL) toolbox
+# MCMTL: MultiClass MultiTask Learning (MCMTL) toolbox
 
 ## Summary 
 
