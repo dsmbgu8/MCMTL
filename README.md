@@ -1,4 +1,4 @@
-# Matlab MultiClass MultiTask Learning (MCMTL) toolbox
+# Matlab MultiClass MultiTask Learning (MCMTL) toolbox. Partitions multiclass, multitask labeled data into one-vs-one or one-vs-rest multitask classification problems. 
 
 ## Summary 
 
